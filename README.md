@@ -6,3 +6,4 @@
 4. Change project name in `package.json`
 5. `$ npm i`
 6. `$ npm start`
+7. `$ npm test`
